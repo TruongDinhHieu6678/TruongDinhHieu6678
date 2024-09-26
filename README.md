@@ -1,5 +1,6 @@
 <p align="center">
-  <a href="https://www.edisonlee55.com"><img src="kita-ikuyo-rap.webp" alt="Banner"></a>
+  <img src="https://komarev.com/ghpvc/?username=gnurtcouq&label=Profile%20views&color=0e75b6&style=flat" alt="gnurtcouq" />
+  <img src="https://img.shields.io/github/followers/gnurtcouq?label=Follow&style=social" alt="gnurtcouq" />
 </p>
 
 
